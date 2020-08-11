@@ -1,0 +1,1 @@
+CALL upload_preventivo_infra();

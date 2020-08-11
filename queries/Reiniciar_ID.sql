@@ -1,0 +1,1 @@
+ alter table claro_cr.equipo_categoria auto_increment=1

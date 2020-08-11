@@ -1,0 +1,1 @@
+call update_completados_infra();

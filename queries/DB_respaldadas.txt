@@ -1,0 +1,62 @@
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema | 
+| america_movil      | --
+| c_and_w            | --
+| cable_tica_DWDM    | --
+| car_track          | --
+| ice_gsm_cr         | --
+| indicadores        | -- 
+| install            | --
+| kernel             | -- 
+| lime_jm            | --
+| message_service    | --
+| movistar_gua       | --
+| movistar_nic       | -- 
+| mysql              | 
+| performance_schema | 
+| soporte            | --
+| telefonica         | --
+| test               | --
+| tool_report        | --
++--------------------+
+19 rows in set (0.01 sec)
+
+
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| america_movil      |--
+| amx_cr_proyecto    |--
+| b_promerica_cr     |--
+| c_and_w            |--
+| cable_tica_DWDM    |--
+| car_track          |--
+| caw_jamaica        |--
+| claro_ecuador      |--
+| gsm_preven         |--
+| horas_venezuela    |--
+| ice_gsm_cr         |--
+| ice_tdma_cr        |--
+| indicadores        |--
+| indicadores_test   |--
+| install            |--
+| kernel             |--
+| lime_jm            |--
+| message_service    |--
+| message_service2   |--
+| movistar_col       |--
+| movistar_gua       |--
+| movistar_nic       |--
+| mysql              |
+| proyecto           |--
+| reporter           |--
+| reporter2          |--
+| soporte            |--
+| telefonica         |--
+| tool_report        |--
+| western_union_cr   |--
++--------------------+

@@ -1,0 +1,1 @@
+CALL update_completados_revenue_share();
