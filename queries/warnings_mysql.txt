@@ -1,0 +1,1 @@
+mysql --database=tem_claro_cr -u root -pMroiner --show-warnings -vvve 
