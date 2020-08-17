@@ -1,0 +1,12 @@
+
+
+intervenciones_tm_claro_cr 
+
+INSERT INTO intervenciones_tm_claro_cr  (`averia_id`,`canaliz_id`,`texto`,`persona_id`,`tipo_interven_id`,
+`Tecnico`,`start`,`end`,`today`,`deviceid`,`subscriberid`,`phonenumber`,`Instancia_del_TT`,`Fecha_Fotografia`,
+`Fotografia`,`Fotografia_FileName`,`Fotografia_url`,`Localizacion_Latitude`,`Localizacion_Longitude`,
+`Localizacion_Altitude`,`Localizacion_Accuracy`,`intervencion_mail`,fecha_insert) SELECT @averia_id, 
+@canaliz_id, @texto, @persona_id, @tipo_interven_id, @Tecnico, @start, @end, @today, @deviceid, 
+@subscriberid, @phonenumber, @Instancia_del_TT, @Fecha_Fotografia, @Fotografia, @Fotografia_FileName, 
+@Fotografia_url, @Localizacion_Latitude, @Localizacion_Longitude, @Localizacion_Altitude, @Localizacion_Accuracy, 
+@intervencion_mail,now();

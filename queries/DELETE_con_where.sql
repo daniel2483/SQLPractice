@@ -1,0 +1,1 @@
+delete quick from claro_cr.equipo where equipo_estado_id=2;

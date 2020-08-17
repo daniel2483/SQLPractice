@@ -1,0 +1,1 @@
+select claro_cr.Get_id_modelo(TRIM("Extractor de Aire HONEYWELL")) as equipo_tipo_id;
